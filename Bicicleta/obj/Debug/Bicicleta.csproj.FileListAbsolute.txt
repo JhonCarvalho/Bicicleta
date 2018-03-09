@@ -1,0 +1,9 @@
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\bin\Debug\Bicicleta.exe.config
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\bin\Debug\Bicicleta.exe
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\bin\Debug\Bicicleta.pdb
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\obj\Debug\Bicicleta.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\obj\Debug\Bicicleta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\obj\Debug\Bicicleta.exe
+C:\Users\aluno\source\repos\Bicicleta\Bicicleta\obj\Debug\Bicicleta.pdb
